@@ -1,0 +1,6 @@
+spring:
+  application:
+  name: cambio-service
+
+server:
+  port: 8000
